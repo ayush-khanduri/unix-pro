@@ -1,5 +1,5 @@
 #STUDENT DATABASE MANAGEMENT PROJECT
-#Project by Ayush Khanduri
+#Project by Ayush Khanduri,Shruti Pachaury,Nilesh Kumar,Gauri
 k=0
 valid_name()
 {
